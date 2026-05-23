@@ -305,6 +305,7 @@ st.write("---")
     
 
     # Process hourly data
+# Fonction .Hourly() à update car MAJ streamlit et elle n'est plus supportée
  #   hourly = response.Hourly()
   #  hourly_shortwave_radiation = hourly.Variables(0).ValuesAsNumpy()
 
